@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Eksplode</title>
-</head>
-<body>
-
 <?php 
 	echo "CONTOH EXPLODE 1"."<br>";
 	echo "Inventori 	: ";
@@ -60,5 +53,3 @@
 	echo "************************************************";
 	echo "<br>"."<br>";
 ?>
-</body>
-</html>
